@@ -1,5 +1,8 @@
 # zipstream
 
+<img width="651" height="652" alt="image" src="https://github.com/user-attachments/assets/abf584de-5926-41b8-a369-ccfaa5748104" />
+
+
 Browse remote ZIP files without downloading them.
 Uses HTTP range requests to fetch only the central directory, then streams individual files on demand.
 
